@@ -1,4 +1,4 @@
 module.exports = function() {
     console.log('hello npm')
-    return 1;
+    return 1111;
 }
